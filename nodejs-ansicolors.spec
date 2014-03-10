@@ -5,9 +5,9 @@ Version:	0.3.2
 Release:	1
 License:	MIT
 Group:		Development/Libraries
-URL:		https://github.com/thlorenz/ansicolors
 Source0:	http://registry.npmjs.org/%{pkg}/-/%{pkg}-%{version}.tgz
 # Source0-md5:	9a8ff703d6072578025a1a324c9005d1
+URL:		https://github.com/thlorenz/ansicolors
 BuildRequires:	rpmbuild(macros) >= 1.634
 Requires:	nodejs
 BuildArch:	noarch
