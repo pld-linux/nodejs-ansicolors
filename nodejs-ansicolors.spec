@@ -2,7 +2,7 @@
 Summary:	Functions that surround a string with ansicolor codes so it prints in color
 Name:		nodejs-%{pkg}
 Version:	0.3.2
-Release:	1
+Release:	2
 License:	MIT
 Group:		Development/Libraries
 Source0:	http://registry.npmjs.org/%{pkg}/-/%{pkg}-%{version}.tgz
